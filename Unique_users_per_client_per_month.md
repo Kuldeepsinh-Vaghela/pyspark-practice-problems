@@ -1,6 +1,4 @@
-# 📊 Unique Users Per Client Per Month — PySpark Solution
-
-**Platform:** [StrataScratch](https://platform.stratascratch.com/coding/2024-unique-users-per-client-per-month?code_type=6)   
+# 📊 Unique Users Per Client Per Month — PySpark Solution 
 **Language:** PySpark  
 
 ---
